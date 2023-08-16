@@ -1,0 +1,19 @@
+.gamer{
+    border: 4px solid;
+    padding: 10px;
+    background-color: gray;
+    text-align: center;
+}
+.choiceBtn{
+    height: 30px;
+    width: 100px;
+}
+#playerText{
+    color: blue;
+}
+#computerText{
+    color: red;
+}
+#resultText{
+    color: white;
+}
